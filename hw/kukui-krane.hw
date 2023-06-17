@@ -1,0 +1,4 @@
+# Env vars to build & install correctly
+
+# kernel build
+ARCH=arm64

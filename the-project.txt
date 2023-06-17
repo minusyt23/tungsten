@@ -1,0 +1,15 @@
+something along the lines
+of cadmium and other OSes
+
+why tungsten? because funny letter W
+
+Steps:
+
+make partitions and format ext4
+
+compile kernel & modules
+inject kernel into first part
+download & install (archlinux) rootfs to ext4 part
+copy firmware & modules to rootfs
+
+chroot into rootfs and install *basic* utilities because archlinux arm is crap
